@@ -26,6 +26,8 @@
             name: NSWorkspaceDidActivateApplicationNotification
             object: nil];
 
+// Handy for seeing the bundle identifier for apps you want to shroud
+#define SPY_ON_WORKSPACE_NOTIFICATIONS 0
 #if SPY_ON_WORKSPACE_NOTIFICATIONS
     [center addObserver: self
             selector: @selector(handleWorkspaceNotification:)
@@ -54,6 +56,7 @@
     NSArray *bundlesToShroud = @[
          @"com.apple.dt.Xcode",  // the source of all this pain
          @"com.apple.finder",   // to make it easy to get a clickable shroud back
+         @"com.tinyspeck.slackmacgap", // unfortunately have to use Xcode in pairings
          @"com.borkware.XcodeShroud"
     ];
 
