@@ -24,6 +24,7 @@ static const CGFloat kSemiTransparentAlpha = 0.4;
     [self setOpaque: YES];
     [self setHasShadow: NO];
     [self setBackgroundColor: NSColor.blackColor];
+    [self setMinSize: CGSizeMake(40, 20)];
 
     self.level = CGShieldingWindowLevel();
     
