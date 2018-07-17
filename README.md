@@ -13,6 +13,14 @@ but seems to be working so far for me.
 
 This code is public domain.  Only took me about a half hour to write :-)
 
+## So What's the problem?
+
+![](assets/blinky.gif)
+
+You can ignore the blinking of the code - just notice the jump bar.  For me,
+this happens every time I pause for more than a second or two. HEY!  LOOK AT ME
+I'M UP HERE!  FORGET THAT CODE YOU'RE TRYING TO CONCENTRATE ON AND LOOK AT ME!!!!
+
 Love,<br>
 ++md
 
