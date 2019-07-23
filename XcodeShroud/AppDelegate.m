@@ -57,6 +57,7 @@
          @"com.apple.dt.Xcode",  // the source of all this pain
          @"com.apple.finder",   // to make it easy to get a clickable shroud back
          @"com.tinyspeck.slackmacgap", // unfortunately have to use Xcode in pairings
+         @"us.zoom.xos", // ditto(e)
          @"com.borkware.XcodeShroud"
     ];
 
