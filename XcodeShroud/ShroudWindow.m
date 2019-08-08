@@ -1,6 +1,6 @@
 #import "ShroudWindow.h"
 
-static const CGFloat kSemiTransparentAlpha = 0.4;
+static const CGFloat kSemiTransparentAlpha = 0.05;
 
 @interface ShroudWindow ()
 @property (assign) BOOL isSemitransparent;

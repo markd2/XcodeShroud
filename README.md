@@ -11,6 +11,8 @@ everything, so you can resize it and position it wherever you want:
 It uses Cocoa's built-in window placement features, which aren't terribly reliable,
 but seems to be working so far for me.
 
+Double-click to make the window transparent enough to see through it.
+
 This code is public domain.  Only took me about a half hour to write :-)
 
 ## So What's the problem?
