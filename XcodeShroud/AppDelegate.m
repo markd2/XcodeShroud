@@ -58,7 +58,8 @@
          @"com.apple.finder",   // to make it easy to get a clickable shroud back
          @"com.tinyspeck.slackmacgap", // unfortunately have to use Xcode in pairings
          @"us.zoom.xos", // ditto(e)
-         @"com.borkware.XcodeShroud"
+         @"so.screen.screen.app", // ditto(e)
+         @"com.borkware.XcodeShroud",
     ];
 
     if ([bundlesToShroud containsObject: app.bundleIdentifier]) {
