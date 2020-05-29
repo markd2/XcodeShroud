@@ -59,6 +59,7 @@
          @"com.tinyspeck.slackmacgap", // unfortunately have to use Xcode in pairings
          @"us.zoom.xos", // ditto(e)
          @"so.screen.screen.app", // ditto(e)
+         @"com.apple.Safari", // Google Docs has a similar annoyance
          @"com.borkware.XcodeShroud",
     ];
 
