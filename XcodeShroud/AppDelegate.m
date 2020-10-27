@@ -60,6 +60,7 @@
          @"us.zoom.xos", // ditto(e)
          @"so.screen.screen.app", // ditto(e)
          // @"com.apple.Safari", // Google Docs has a similar annoyance
+         @"com.google.Chrome",
          @"com.borkware.XcodeShroud",
     ];
 
