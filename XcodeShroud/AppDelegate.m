@@ -59,9 +59,10 @@
          @"com.tinyspeck.slackmacgap", // unfortunately have to use Xcode in pairings
          @"us.zoom.xos", // ditto(e)
          @"so.screen.screen.app", // ditto(e)
+         @"com.pop.pop.app",
          // @"com.apple.Safari", // Google Docs has a similar annoyance
          @"com.google.Chrome",
-         @"com.borkware.XcodeShroud",
+         @"com.borkware.XcodeShroud"
     ];
 
     if ([bundlesToShroud containsObject: app.bundleIdentifier]) {
